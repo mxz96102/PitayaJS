@@ -16,5 +16,8 @@
     "eslint": "^4.9.0",
     "mocha": "^4.0.1",
     "webpack": "^3.8.1"
+  },
+  "dependencies": {
+    "react": "^16.0.0"
   }
 }
